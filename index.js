@@ -1,3 +1,3 @@
-function divide (num1, num2) {
-  return num1/num2;
+function divide (2000, 10) {
+  return 2000/10;
 };
