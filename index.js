@@ -3,4 +3,4 @@ function divide () {
 }
 let square = (param1) => param1*param1
 
-let add = (param1, param2) => param1+param2
+let add = (num1, num2) => num1+num2
